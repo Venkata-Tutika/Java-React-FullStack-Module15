@@ -4,7 +4,6 @@
 
 ![image](https://github.com/rahulsahay19/Blog-Images/assets/3886381/3e5873dd-42f8-4576-8961-b95784b91b4f)
 
-GitHub:- https://github.com/rahulsahay19/Java-React-FullStack
 
 Enroll here:- https://www.udemy.com/course/building-fullstack-e-commerce-app-using-springboot-react/?couponCode=OFFER-PRICE
 
@@ -52,7 +51,6 @@ Course Stats: What You’ll Get
 - 🔄 Yearly Updates: Stay in sync with the latest trends and best practices in SpringBoot and React as technology evolves.
 - 🎫 Lifetime Access: Your one-time enrollment grants you unrestricted access to all current and future course content — forever.
 
-GitHub:- https://github.com/rahulsahay19/Java-React-FullStack
 
 Enroll here:- https://www.udemy.com/course/building-fullstack-e-commerce-app-using-springboot-react/?couponCode=OFFER-PRICE
 
@@ -85,7 +83,6 @@ Solution Walkthrough:
 
 ![image](https://github.com/rahulsahay19/Blog-Images/assets/3886381/aea25748-d100-42f3-a9f9-3eae8b0a53e2)
 
-GitHub:- https://github.com/rahulsahay19/Java-React-FullStack
 
 Enroll here:- https://www.udemy.com/course/building-fullstack-e-commerce-app-using-springboot-react/?couponCode=OFFER-PRICE
 
