@@ -5,7 +5,6 @@
 ![image](https://github.com/rahulsahay19/Blog-Images/assets/3886381/3e5873dd-42f8-4576-8961-b95784b91b4f)
 
 
-Enroll here:- https://www.udemy.com/course/building-fullstack-e-commerce-app-using-springboot-react/?couponCode=OFFER-PRICE
 
 Introduction:
 Are you ready to embark on a transformative journey into the world of full-stack e-commerce development? 🔥 Brace yourself for an exhilarating adventure, where you’ll harness the dynamic duo of Java21 and SpringBoot 3.2.3 to craft cutting-edge online stores that redefine the digital shopping experience! 🌐💻
@@ -52,8 +51,6 @@ Course Stats: What You’ll Get
 - 🎫 Lifetime Access: Your one-time enrollment grants you unrestricted access to all current and future course content — forever.
 
 
-Enroll here:- https://www.udemy.com/course/building-fullstack-e-commerce-app-using-springboot-react/?couponCode=OFFER-PRICE
-
 Solution Walkthrough:
 
 ![image](https://github.com/rahulsahay19/Blog-Images/assets/3886381/110f109d-c2ad-44ca-a487-f22d1f507239)
@@ -83,7 +80,5 @@ Solution Walkthrough:
 
 ![image](https://github.com/rahulsahay19/Blog-Images/assets/3886381/aea25748-d100-42f3-a9f9-3eae8b0a53e2)
 
-
-Enroll here:- https://www.udemy.com/course/building-fullstack-e-commerce-app-using-springboot-react/?couponCode=OFFER-PRICE
 
 Thanks for Joining me. Happy Learning.
