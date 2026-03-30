@@ -81,7 +81,7 @@ Solution Walkthrough:
 
 ![image](https://github.com/rahulsahay19/Blog-Images/assets/3886381/aea25748-d100-42f3-a9f9-3eae8b0a53e2)
 
-GitHub:- https://github.com/rahulsahay19/Java-React-FullStack
+GitHub:- https://github.com/Venkata-Tutika/Java-React-FullStack-Module15.git
 
 
 Thanks for Joining me. Happy Learning.
